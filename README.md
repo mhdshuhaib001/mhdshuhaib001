@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Muhammed Shuhaib, a Self-Taught **MERN Stack Developer** 🚀
 
-Welcome to my space on the internet! I’m passionate about building dynamic, scalable, and efficient web applications using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). I love turning ideas into reality by creating user-friendly interfaces and powerful backend systems.
+I’m passionate about building dynamic, scalable, and efficient web applications using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). I love turning ideas into reality by creating user-friendly interfaces and powerful backend systems.
 
 ---
 
@@ -19,7 +19,7 @@ Here’s a quick overview of the technologies I work with:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express.js logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="30" alt="Express.js logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB logo" />
   <img width="12" />
@@ -27,18 +27,16 @@ Here’s a quick overview of the technologies I work with:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="GraphQL logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
 </div>
-
----
-
-## 📈 Profile Views
-
-![Profile views](https://komarev.com/ghpvc/?username=MuhammedShuhaib&color=blue&style=flat-square)
-
-Thank you for stopping by! Your visit means a lot, and I hope you find something inspiring or useful here.
 
 ---
 
